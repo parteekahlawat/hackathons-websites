@@ -7,3 +7,4 @@
 4) Hacker Earth - https://www.hackerearth.com/challenges/hackathon/
 5) Unstop - https://unstop.com/hackathons
 6) EventBrite - https://www.eventbrite.com/
+7) HackClub - https://hackathons.hackclub.com/
